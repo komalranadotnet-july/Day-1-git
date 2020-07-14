@@ -1,0 +1,2 @@
+Follow the following instructions to work with this web project
+This project is done using Dot net core
